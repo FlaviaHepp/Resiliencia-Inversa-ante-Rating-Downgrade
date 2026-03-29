@@ -96,3 +96,47 @@ Funciona mejor en:
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+***
+📉➡️📈 **Cuando una mala noticia… marca el piso**
+
+En teoría, un **rating downgrade** debería golpear fuerte al precio y al momentum.
+Pero el mercado no siempre sigue el guion.
+
+👉 Analicé casos donde, tras una rebaja de calificación, el **RSI no cae… sino que sube con fuerza en los días siguientes**.
+
+💡 **Insight clave:**
+Cuando el **RSI aumenta significativamente después de un downgrade**, puede ser señal de que el mercado ya había descontado lo peor…
+y la noticia actúa como un **“evento de limpieza” de incertidumbre**.
+
+---
+
+📊 **¿Qué medí?**
+
+* RSI antes del evento
+* RSI días después del downgrade
+* Identificación de casos donde el momentum sube de forma relevante (+15 puntos)
+
+---
+
+🧠 **¿Cómo interpretarlo?**
+
+* Downgrade + RSI al alza → divergencia clave
+* Posible sobre-reacción previa del mercado
+* Entrada de compradores tras disiparse la incertidumbre
+
+---
+
+⚡ **¿Por qué importa?**
+
+Porque este tipo de patrón:
+
+* Detecta **puntos de inflexión**
+* Identifica activos “castigados en exceso”
+* Puede anticipar cambios de tendencia
+
+---
+
+📌 Pregunta para la comunidad:
+¿Confían en los cambios de rating… o prefieren observar cómo reacciona el mercado después?
+
+#QuantFinance #Trading #DataScience #StockMarket #RSI #Alpha #BehavioralFinance #Analytics
